@@ -1,4 +1,5 @@
 site_name: QMB Documentation
-repo_url: https://github.com/USTC-KnowledgeComputingLab/qmb
+# repo_url: https://github.com/USTC-KnowledgeComputingLab/qmb
+repo_url: https://github.com/hzhangxyz/qmb-doc
 edit_uri: edit/main/docs/
 theme: readthedocs
